@@ -1,6 +1,6 @@
-PWD d:\LaTeX\LaTeX
+PWD d:\LaTeX\Mathematical Notation
 INPUT C:\Users\USER\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT d:\LaTeX\LaTeX\mathematical notation.tex
+INPUT d:\LaTeX\Mathematical Notation\mathematical notation.tex
 OUTPUT mathematical notation.log
 INPUT C:\Users\USER\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\USER\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
