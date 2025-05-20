@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1747766183.38255 "d:/LaTeX/Mathematical Notation/mathematical notation.tex" "mathematical notation.pdf" "mathematical notation" 1747766183.73694 0
+["pdflatex"] 1747766328.38177 "d:/LaTeX/Mathematical Notation/mathematical notation.tex" "mathematical notation.pdf" "mathematical notation" 1747766328.76749 0
   "C:/Users/USER/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1747587572 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/USER/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1747587560 13157157 f07c1724d6b5ff3756a76662b415974a ""
   "C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -38,9 +38,9 @@
   "C:/Users/USER/AppData/Local/Programs/MiKTeX/tex/latex/base/article.cls" 1738160243 20144 63d8bacaf52e5abf4db3bc322373e1d4 ""
   "C:/Users/USER/AppData/Local/Programs/MiKTeX/tex/latex/base/size11.clo" 1738160243 8464 e73911cdcc738e82d6adccd28e654bb1 ""
   "C:/Users/USER/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1745818159 30366 13daaaa774357bc2a262523ba6a04bac ""
-  "d:/LaTeX/Mathematical Notation/mathematical notation.tex" 1747766182 992 723f427948b3770d98aa8410fe818455 ""
-  "mathematical notation.aux" 1747766183 32 044b7f8fc9779af7531264e0c5c84b6d "pdflatex"
-  "mathematical notation.tex" 1747766182 992 723f427948b3770d98aa8410fe818455 ""
+  "d:/LaTeX/Mathematical Notation/mathematical notation.tex" 1747766327 987 6c4a5d2e307fd788c7e6a5eb6ca8871c ""
+  "mathematical notation.aux" 1747766328 32 044b7f8fc9779af7531264e0c5c84b6d "pdflatex"
+  "mathematical notation.tex" 1747766327 987 6c4a5d2e307fd788c7e6a5eb6ca8871c ""
   (generated)
   "mathematical notation.aux"
   "mathematical notation.log"
