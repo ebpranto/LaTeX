@@ -1,0 +1,27 @@
+# Fdb version 4
+["pdflatex"] 1747756629.51294 "d:/LaTeX/LaTeX/LaTeX.tex" "LaTeX.pdf" "LaTeX" 1747756629.87383 0
+  "C:/Users/USER/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1747587572 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+  "C:/Users/USER/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1747587560 13157157 f07c1724d6b5ff3756a76662b415974a ""
+  "C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi10.tfm" 1136765053 1528 abec98dbc43e172678c11b3b9031252a ""
+  "C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi6.tfm" 1136765053 1512 f21f83efb36853c0b70002322c1ab3ad ""
+  "C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi8.tfm" 1136765053 1520 eccf95517727cb11801f4f1aee3a21b4 ""
+  "C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr10.tfm" 1136765053 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
+  "C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr6.tfm" 1136765053 1300 b62933e007d01cfd073f79b963c01526 ""
+  "C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr8.tfm" 1136765053 1292 21c1c5bfeaebccffdb478fd231a0997d ""
+  "C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy10.tfm" 1136765053 1124 6c73e740cf17375f03eec0ee63599741 ""
+  "C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy6.tfm" 1136765053 1116 933a60c408fc0a863a92debe84b2d294 ""
+  "C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy8.tfm" 1136765053 1120 8b7d695260f3cff42e636090a8002094 ""
+  "C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1247596667 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
+  "C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
+  "C:/Users/USER/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1247596667 32726 39f0f9e62e84beb801509898a605dbd5 ""
+  "C:/Users/USER/AppData/Local/Programs/MiKTeX/tex/latex/base/article.cls" 1738160243 20144 63d8bacaf52e5abf4db3bc322373e1d4 ""
+  "C:/Users/USER/AppData/Local/Programs/MiKTeX/tex/latex/base/size11.clo" 1738160243 8464 e73911cdcc738e82d6adccd28e654bb1 ""
+  "C:/Users/USER/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1745818159 30366 13daaaa774357bc2a262523ba6a04bac ""
+  "LaTeX.aux" 1747756629 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "LaTeX.tex" 1747756628 272 8bb995be31988b8b00d75955a567621f ""
+  "d:/LaTeX/LaTeX/LaTeX.tex" 1747756628 272 8bb995be31988b8b00d75955a567621f ""
+  (generated)
+  "LaTeX.aux"
+  "LaTeX.log"
+  "LaTeX.pdf"
+  (rewritten before read)
