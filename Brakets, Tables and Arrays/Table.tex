@@ -1,0 +1,54 @@
+\documentclass[11pt]{article}
+
+\usepackage{float} %install package
+
+
+\parindent 0px % set indentent
+\pagestyle{empty} % remove page numbers
+
+\begin{document}
+Tables:\\
+% c for center, l- left, r-right
+\begin{tabular}{|c||c|c|c|c|c|} \hline
+$x$ & 1 & 2 & 3 & 4 & 5\\ \hline
+$f(x)$&10&11&12&13&14\\ \hline
+\end{tabular}
+
+\vspace{1cm}
+
+%Table:1
+\begin{table}[H]
+
+%center the table
+\centering
+
+\def\arraystretch{1.5} % extra padding: space from element to top and bottom 
+\begin{tabular}{|c||c|c|c|c|c|} \hline
+$x$ & 1 & 2 & 3 & 4 & 5\\ \hline
+$f(x)$&$\frac{1}{2}$&11&12&13&14\\ \hline
+\end{tabular}
+
+% set caption
+\caption{These values represents the functions}
+
+\end{table}
+
+
+%Table:2
+\begin{table}[H]
+
+%center the table
+\centering
+% set caption
+\caption{The relationship between $f$ and $f'$} 
+\def\arraystretch{1.5} % extra padding: space from element to top and bottom 
+\begin{tabular}{|l|p{3in}|} \hline % p - paragraph
+$f(x)$ & $f'(x)$\\ \hline
+$x>0$& The function $f(x)$ is increasing.The function $f(x)$ is increasing.The function $f(x)$ is increasing.The function $f(x)$ is increasing.\\ \hline
+\end{tabular}
+
+
+
+\end{table}
+
+\end{document}
