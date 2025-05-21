@@ -2,4 +2,5 @@
 *.fdb_latexmk
 *.fls
 *.txt
-*.syntex
+*.syntex.gz
+.log
