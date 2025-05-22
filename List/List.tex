@@ -1,0 +1,109 @@
+\documentclass[11pt]{article}
+
+\pagestyle{empty}
+\usepackage{enumerate}
+
+\begin{document}
+pencil
+calculator
+rular
+notebook
+
+\begin{enumerate} % No.
+    \item pencil
+    \item calculator
+    \item rular
+    \item notebook
+\end{enumerate}
+
+\begin{itemize} % No.
+    \item pencil
+    \item calculator
+    \item rular
+    \item notebook
+\end{itemize}
+
+\begin{enumerate} % No.
+    \item pencil
+    \item calculator
+    \item rular
+    \item notebook
+        \begin{enumerate}
+            \item notes
+            \item homework
+            \item assesments
+                \begin{enumerate}
+                    \item test
+                    \item quizzes
+                    \item journal entries
+                \end{enumerate}
+        \end{enumerate}
+    \item highlighters
+\end{enumerate}
+
+\vspace{0.1cm}
+
+\begin{enumerate}[A.] % use package: enumerate
+    \item pencil
+    \item calculator
+    \item rular
+    \item notebook
+\end{enumerate}
+
+\pagebreak
+
+\begin{enumerate}[i.] % start from roman i
+    \item pencil
+    \item calculator
+    \item rular
+    \item notebook
+\end{enumerate}
+
+\vspace{0.1cm}
+\begin{enumerate} \setcounter{enumi}{6} %start from a specific No.
+    \item pencil
+    \item calculator
+    \item rular
+    \item notebook
+\end{enumerate}
+
+\vspace{0.1cm} %vertical space
+\begin{itemize} % No.
+    \item pencil
+    \item calculator
+    \item rular
+    \item notebook
+        \begin{itemize}
+            \item notes
+            \item homework
+            \item assesments
+                \begin{itemize}
+                    \item test
+                    \item quizzes
+                    \item journal entries
+                \end{itemize}
+        \end{itemize}
+    \item highlighters
+\end{itemize}
+
+%want to make list, but don't want to show numbers
+\vspace{0.1cm}
+\begin{enumerate} % No.
+    \item[] pencil
+    \item[] calculator
+    \item[] rular
+    \item[] notebook
+\end{enumerate}
+% \pagebreak
+% we can set manually
+\vspace{0.1cm}
+\begin{enumerate} % No.
+    \item[(1)] pencil
+    \item[(2)] calculator
+    \item[(3)] rular
+    \item[(4)] notebook
+\end{enumerate}
+
+
+
+\end{document}
