@@ -1,0 +1,48 @@
+\documentclass[11pt, a4paper]{article}
+ % the space between documant class and begin document is call preamble
+% \usepackage{fullpage} % for set 1 inch page mergin
+
+% \usepackage[top = 1in, bottom = 1in, left = 0.5in, right = 0.5in, paperwidth=8.5in, paperheight=11in]{geometry} % for set custom mergin
+
+\usepackage[margin = 1in]{geometry}
+\usepackage{amsfonts, amssymb, amsmath}
+\usepackage{tikz}
+\usepackage{pgfplots}
+\usepackage{fontawesome5} %calculator, pen, note etc emoji
+
+
+
+
+%Create macros:
+\def\eq1{\dfrac{x}{3x^2+x+1}}
+
+\newcommand{\set}[1]{\setlength{\itemsep}{#1cm}}
+
+
+
+\begin{document}
+
+$\frac{x}{3x^2+x+1}$
+
+$\dfrac{x}{3x^2+x+1}$ % larger fraction
+
+\section{Introduction}
+% \textbf{Introduction}
+\begin{enumerate}
+    \set{0.3}
+    \item \faCalculator\ Let's examine the function: $\eq1$  %use macros
+    \item \faPen This is symbol of set of all real numbers: $\mathbb{R}$.
+    \item \faEdit This is symbol of set of all Integers: $\mathbb{Z}$.
+    \item This is symbol of set of all rational numbers: $\mathbb{Q}$.
+    \item  What’s	better	than	one	model	making	predictions?	Well,	how	about	a	bunch	of
+ them?	Ensembling	is	a	technique	that	is	fairly	common	in	more	traditional
+    \item The
+ idea	is	to	obtain	a	prediction	from	a	series	of	models,	and	combine	those
+ predictions	to	produce	a	final	answer
+    \item  There	are	plenty	of	approaches	to	ensembles,	and	we	won’t	go	into	all	of	them
+ here.	Instead,	here’s	a	simple	way	of	getting	started	with	ensembles,	one	that	has
+ eeked	out	another predictions
+    
+\end{enumerate}
+
+\end{document}
