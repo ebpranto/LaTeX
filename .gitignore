@@ -6,3 +6,5 @@
 *.log
 *.out
 *.toc
+bibtex.blg
+bibtex.bbl
