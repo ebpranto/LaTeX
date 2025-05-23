@@ -1,0 +1,65 @@
+\documentclass[a4paper, 11pt]{report}
+
+\title{Thesis Paper\\ 
+{\Large{Universit of Rajshahi}}}
+\author{Ehsanul Bashar Pranto}
+\date{18, Feb, 2025}
+
+
+% set margin
+\usepackage[margin = 1in]{geometry}
+
+\usepackage{graphicx} % to use image
+
+\usepackage{hyperref} % make connection to ref in document and references
+\usepackage{url} % change 
+
+\usepackage{lipsum}
+
+\hypersetup{colorlinks = true,
+linkcolor = cyan} %aplly color
+
+\begin{document}
+
+\maketitle
+
+% the *  maans : don't give the chapter No. in Abstract
+\chapter*{Abstract}
+\lipsum[1-5]
+
+\twocolumn
+\chapter*{Dedication}
+\lipsum[1-5]
+
+\onecolumn
+\chapter*{Acknowledgements}
+\lipsum[1-5]
+
+
+% index or contents 
+\tableofcontents
+
+% list of figures
+\listoffigures
+
+
+
+% connect Chapter_1 to this documnet
+\include{Chapter_1}
+
+% connect Chapter_2 to this documnet
+\include{Chapter_2}
+
+% connect Conclusion to this documnet
+\include{Conclusion}
+
+
+% Add appendix
+\appendix
+\include{Appendix}
+
+\bibliographystyle{plain}
+\bibliography{reference}
+
+
+\end{document}
