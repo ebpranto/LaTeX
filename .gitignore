@@ -6,5 +6,5 @@
 *.log
 *.out
 *.toc
-bibtex.blg
-bibtex.bbl
+bibtex_other_link.blg
+bibtex_other_link.bbl
